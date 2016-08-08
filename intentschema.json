@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "getCurrentIntent"
+    },
+    {
+      "intent": "getForecastIntent"
+    },
+    {
+      "intent": "getHumidIntent"
+    },
+    {
+      "intent": "getPressureIntent"
+    },
+    {
+      "intent": "getAstronomyIntent"
+    },
+    {
+      "intent": "getSurfIntent"
+    },
+    {
+      "intent": "getEarthquakeIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+    	"intent": "AMAZON.StopIntent"
+    },
+    {
+    	"intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+    	"intent": "AMAZON.NoIntent"
+    }
+  ]
+}

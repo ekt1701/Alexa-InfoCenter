@@ -1,0 +1,26 @@
+getHumidIntent whats the humidity
+getHumidIntent humidity
+getHumidIntent how humid is it
+
+getPressureIntent whats the pressure
+getPressureIntent pressure
+
+getCurrentIntent current
+getCurrentIntent whats current conditions
+
+getForecastIntent forecast
+getForecastIntent whats the forecast
+
+getAstronomyIntent astronomy
+getAstronomyIntent sunrise
+getAstronomyIntent sunset
+getAstronomyIntent moon
+
+getSurfIntent surf
+getSurfIntent waves
+getSurfIntent height of waves
+getSurfIntent surf conditions
+
+getEarthquakeIntent earthquake
+getEarthquakeIntent any earthquakes
+getEarthquakeIntent did the ground shake
