@@ -9,4 +9,6 @@ In addition the skill can get air quality from http://aqicn.org, news from the L
 
 The woeid for the Yahoo Weather API, is set to my location, so you will need to change it for your location. You can find your woeid here: http://woeid.rosselliot.co.nz/
 
+The configuration is Runtime: Python 2.7, Handler: lambda_function.lambda_handler, Existing Role: lambda_basic_execution. The code is entered in-line.
+
 Warning: I'm a newbie to Alexa Skills Kit and Python, so the code will be sloppy, bug infested and perhaps cause your Echo to self-destruct... :)
