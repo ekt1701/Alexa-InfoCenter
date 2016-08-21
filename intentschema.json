@@ -40,18 +40,6 @@
       "intent": "getStocksIntent"
     },
     {
-      "intent": "getReutersIntent"
-    },
-    {
-      "intent": "getTechCrunchIntent"
-    },
-    {
-      "intent": "getGoogleNewsIntent"
-    },
-    {
-      "intent": "getWallStreetIntent"
-    },
-    {
       "intent": "AMAZON.HelpIntent"
     },
     {
