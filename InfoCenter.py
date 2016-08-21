@@ -436,7 +436,7 @@ def getAirQuality(intent, session):
         no2_value = aqicn_data['iaqi']['no2']['val']
         text = "On " + str(date) +  ", Air Now reports the aqi as " + str(aqi_value) + ", which is " + rating + ". The ozone level was " + str(o3_value) + ". The carbon monoxide level was " + str(co_value) + ". The sulfur dioxide level was " + str(no2_value) + ". Would you like to hear something else?"
     else:
-        text = "The Air Now feed appears to be down, please try again later. Would you like to hear something else?
+        text = "The Air Now feed appears to be down, please try again later. Would you like to hear something else?"
 
     speech_output = text
     reprompt_text = ""
@@ -531,7 +531,7 @@ def getJoke(intent, session):
 
 def getStocks(intent, session):
     session_attributes = {}
-     card_title = "Dow Jones"
+    card_title = "Dow Jones"
     stocklist = ["983582", "660463", "304466804484872"]
     myreport = []
     i=0
