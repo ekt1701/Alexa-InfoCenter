@@ -125,7 +125,7 @@ def get_welcome_response():
 def get_help():
     session_attributes = {}
     card_title = "Help"
-    speech_output = " You can say current, forecast, humidity, pressure, astronomy, surf, earthquakes, air quality, news, stocks, quote, joke or cat. What would you like to hear?"
+    speech_output = " You can say weather, forecast, humidity, pressure, astronomy, surf, earthquakes, air quality, news, stocks, quote, joke or cat. What would you like to hear?"
     should_end_session = False
     reprompt_text = ""
     return build_response(session_attributes, build_speechlet_response(
