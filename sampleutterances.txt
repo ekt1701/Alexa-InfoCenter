@@ -2,7 +2,6 @@ AMAZON.HelpIntent i dont know
 AMAZON.HelpIntent what can i say
 
 AMAZON.NoIntent no thank you
-AMAZON.NoIntent nada
 
 getHumidIntent whats the humidity
 getHumidIntent humidity
@@ -11,7 +10,7 @@ getHumidIntent how humid is it
 getPressureIntent whats the pressure
 getPressureIntent pressure
 
-getCurrentIntent current
+getCurrentIntent weather
 getCurrentIntent current conditions
 
 getForecastIntent forecast
@@ -48,7 +47,6 @@ getJokeIntent say something funny
 
 getCatFactsIntent cat facts
 getCatFactsIntent tell me a fact about cats
-getCatFactsIntent cat
 getCatFactsIntent cats
 
 getStocksIntent stocks
