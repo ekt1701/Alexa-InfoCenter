@@ -1,4 +1,10 @@
 # Alexa-InfoCenter
+
+Update Sep 17, 2016
+
+I have made an improved version which allows you to customize the skill through the use of cvs files.  It cab be found here: https://github.com/ekt1701/Alexa-Good-Morning
+
+
 My learn as I go project for Alexa Skills Kit and Python. This skill was inspired by https://github.com/Pizzaface/alexa-humidity
 
 Currently, it gets weather conditions from Yahoo https://developer.yahoo.com/yql/console/#h=desc+weather.forecast, moon info from http://www.burningsoul.in/apis/moon, surf conditions from http://feeds.feedburner.com/surfline-rss-surf-report-south-los-angeles, earthquake info from http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.atom
