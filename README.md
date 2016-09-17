@@ -2,7 +2,7 @@
 
 Update Sep 17, 2016
 
-I have made an improved version which allows you to customize the skill through the use of cvs files.  It cab be found here: https://github.com/ekt1701/Alexa-Good-Morning
+I have made an improved version which allows you to customize the skill through the use of cvs files.  It can be found here: https://github.com/ekt1701/Alexa-Good-Morning
 
 
 My learn as I go project for Alexa Skills Kit and Python. This skill was inspired by https://github.com/Pizzaface/alexa-humidity
